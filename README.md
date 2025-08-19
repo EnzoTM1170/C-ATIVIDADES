@@ -7,7 +7,6 @@ Programa em C# para comparar idades de dois alunos.
 - Solicita as idades de dois alunos
 - Identifica quem é mais velho
 - Mostra a diferença de idade entre eles
-- Interface amigável com bordas e organização visual
 
 ## Como executar
 
